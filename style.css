@@ -1,0 +1,29 @@
+body {
+	background-color: #FDF0DF;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.img_left {
+	text-align: left;
+	float: left;
+	border-right-width: 0px;
+	margin-right: 10px;
+}
+a {
+	color: #EC0000;
+}
+
+.img_right {
+	float: right;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.galleryimg {
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-color: #666;
+	border-right-color: #666;
+	border-bottom-color: #666;
+	border-left-color: #666;
+}
